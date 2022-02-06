@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515062001414",
+    "project_id": "barapplication-4ce43",
+    "storage_bucket": "barapplication-4ce43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515062001414:android:abbf61867809ae7295f887",
+        "android_client_info": {
+          "package_name": "com.example.barapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515062001414-qh51db2hdb9mj7t8ii6q5raij5j4qoqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmtDB9SedHIj1OGzkW87hja1VMHx8pXw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515062001414-qh51db2hdb9mj7t8ii6q5raij5j4qoqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

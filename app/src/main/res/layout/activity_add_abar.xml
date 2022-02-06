@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background_styles"
+    tools:context=".addAbar">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1">
+
+
+        <EditText
+            android:id="@+id/addName"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="0"
+            android:layout_marginTop="100dp"
+            android:hint="Add name"
+            android:textSize="40sp" />
+
+        <EditText
+            android:id="@+id/addAddress"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="0"
+            android:layout_marginTop="50dp"
+            android:hint="Add address"
+            android:textSize="40sp"/>
+
+        <Button
+            android:id="@+id/addbutt"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_weight="0"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/custom_button"
+            android:textSize="30sp"
+            android:text="add"/>
+
+
+
+    </LinearLayout>
+
+</LinearLayout>
